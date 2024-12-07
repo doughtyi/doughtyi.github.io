@@ -31,6 +31,10 @@ border-radius: 25%;
     margin: auto;
    }
 
+.project p{
+    color:white;
+}
+
 .about{
     display:flex;
     flex-wrap:wrap;
